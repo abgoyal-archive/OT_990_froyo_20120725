@@ -1,0 +1,12 @@
+ClearCase CopyAreaDB|4
+vobs/Projects/btl-a/adaptation/dtun/dtunc_bz4
+2
+8
+d:dtun_device.c|1|12b7a158848|156d|b176a850|4eab5b05bfa311df89a8a4badb31b4ee|0
+b:dtun_clnt.c|1|12b7a158848|56ec|ed22fa11|4ceb5abdbfa311df89a8a4badb31b4ee|0
+b:dtun_hcid.c|1|12b7a158848|e87f|55fc44d8|4fdb5b4dbfa311df89a8a4badb31b4ee|0
+d:dtun_device.h|1|12b7a158848|b2c|69534b62|4f4b5b29bfa311df89a8a4badb31b4ee|0
+b:dtun_clnt.h|1|12b7a158848|af2|fe04b3bf|4e1b5ae1bfa311df89a8a4badb31b4ee|0
+b:dtun_obex.c|1|12b7a158848|5dd7|d7254be7|507b5b71bfa311df89a8a4badb31b4ee|0
+6:NOTICE|1|12a3a6eb8c8|482e|53ac162c|0d187b6b07a111df8fff0019b9f06aea|0
+b:dtun_obex.h|1|12b7a158848|4bb|8a2f5fed|51ab5b95bfa311df89a8a4badb31b4ee|0
